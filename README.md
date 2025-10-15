@@ -8,7 +8,7 @@ Last Updated Version: GabutBot-Reborn v5.0
 # BOT APAKAH INI?
 Bot ini adalah bot MD (Multi-Device), sehingga bot ini dapat digunakan meskipun hp pengguna mati. Bot ini masih dalam pengembangan (baileys beta) sehingga terdapat masih banyak bug di dalamnya. Bot ini No Encrypt, sehingga pengguna dapat recode (asal jangan dijual juga) dan dapat menambah fitur tertentu dengan apikey. 
 
-Recode by me and [`ManzSteviaOFC`](https://www.youtube.com/channel/UCHEszLndQmgMITqKtwy2DXQ))
+Recode by me and [`toy`](https://www.youtube.com/channel/UCHEszLndQmgMITqKtwy2DXQ))
 
 # GabutBot-Reborn
 Full Featured Bot Updated Script 🤖
@@ -139,7 +139,7 @@ $ node .
 WhatsApp Bot is still in the development stage, so there are a few bugs
 WhatsApp Connection (BETA, not working perfectly)
 
-Editing Number Owner & session name in [`config.js`]
+Editing Number Owner & session name in [`08810q11555504 `]
 Get Apikey LolHuman on [`LolHuman`](https://api.lolhuman.xyz) harga murah kok sans 
 
 
